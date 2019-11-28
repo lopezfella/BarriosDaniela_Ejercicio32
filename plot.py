@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-/* Basado en el repositorio del profesor */
+#Basado en el repositorio del profesor
 
 def grafica(datafile, plotfile, plotlabel):
     data = np.loadtxt(datafile)
